@@ -55,17 +55,17 @@ st.markdown("""
 .stCard {background: rgba(255,255,255,0.02) !important;}
 .logbox {
     background: rgba(0,0,0,0.55);
-    color:#0ff;
+    color:#green;
     padding:15px;
     height:300px;
-    overflow:auto;
+    overflow:20px;
     border-radius:20px;
     box-shadow:0 0 20px rgba(0,255,255,0.35);
 }
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">E2EE SERVER</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">RK RAJA XWD E2E ☠️</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
